@@ -1,7 +1,7 @@
 <!-- Profile README for Mir Borhan Uddin -->
 
 <h1 align="center">👋 Hi, I'm Mir Borhan Uddin</h1>
-<h3 align="center">💙 Flutter Developer | Crafting Elegant Mobile Experiences</h3>
+<h3 align="center"> Flutter Developer | Crafting Elegant Mobile Experiences</h3>
 
 ---
 
