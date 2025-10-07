@@ -45,7 +45,7 @@ I enjoy translating creative UI ideas into seamless, functional code — always 
 
 <p align="left">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/mir-borhan-uddin-b78bb8350/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="(https://www.linkedin.com/in/mir-borhan-uddin-b78bb8350/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/MirBorhanUddin"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
 
