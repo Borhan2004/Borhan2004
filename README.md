@@ -14,6 +14,6 @@
 - Clean architecture in large apps  
 
 ### 📫 Reach me
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/mir-borhan-uddin-b78bb8350/))
+- ([https://linkedin.com/in/your-link](https://www.linkedin.com/in/mir-borhan-uddin-b78bb8350/))
 - 📧 borhankustia@gmail.com
 
