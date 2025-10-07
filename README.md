@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Mir Borhan Uddin
+🚀 Flutter Developer |
 
-<!--
-**Borhan2004/Borhan2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech I Use
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- Flutter animations and iOS effects  
+- Clean architecture in large apps  
+
+### 📫 Reach me
+- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/mir-borhan-uddin-b78bb8350/))
+- 📧 borhankustia@gmail.com
+
