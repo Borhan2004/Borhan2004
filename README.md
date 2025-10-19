@@ -1,22 +1,22 @@
 <!-- Profile README for Mir Borhan Uddin -->
 
 <h1 align="center">👋 Hi, I'm Mir Borhan Uddin</h1>
-<h3 align="center"> Flutter Developer | Crafting Elegant Mobile Experiences</h3>
+<h3 align="center">Flutter Developer | Crafting High-Performance Mobile Applications</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a **Flutter Developer** passionate about building sleek, responsive, and performance-driven mobile applications.  
-I enjoy translating creative UI ideas into seamless, functional code — always aiming for clean architecture, scalability, and user delight.  
+I am a **Flutter Developer** specializing in building **scalable, responsive, and performant mobile applications**.  
+With a strong focus on clean architecture and user-centric design, I transform complex UI concepts into seamless, functional apps.  
 
-- 🚀 Focused on creating high-quality mobile apps with Flutter & GetX  
-- 🌱 Currently exploring advanced Flutter animations and iOS design effects  
-- ⚡ Passionate about design systems and smooth app performance  
+- 🚀 Expertise in **Flutter & GetX** for robust mobile solutions  
+- 🌱 Exploring advanced **Flutter animations**, custom widgets, and **iOS design patterns**  
+- ⚡ Passionate about **performance optimization**, code maintainability, and intuitive UX  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
@@ -24,12 +24,23 @@ I enjoy translating creative UI ideas into seamless, functional code — always 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GetX-FF4081?logo=flutter&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST%20API-005571?logo=postman&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
+### 💼 Professional Experience
+
+- **Flutter Developer** – *Softvence Agency*  
+  Built and maintained mobile apps with **GetX state management**, integrated APIs, and implemented scalable architectures.  
+
+- **Marketing Executive** – *Marcella Distribution Ltd*  
+  Developed and executed digital campaigns, analyzing engagement metrics to optimize outreach and conversions.  
+
+---
+
 ### 🌐 Connect With Me
+
 <p align="left">
   <a href="mailto:borhankustia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/mir-borhan-uddin-b78bb8350/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
@@ -38,4 +49,4 @@ I enjoy translating creative UI ideas into seamless, functional code — always 
 
 ---
 
-⭐️ *“Code is like art — elegant, simple, and expressive.”*  
+⭐️ *“Code is not just logic — it’s elegant, efficient, and crafted for impact.”*
