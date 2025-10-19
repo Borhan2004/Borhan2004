@@ -34,7 +34,10 @@ With a strong focus on clean architecture and user-centric design, I transform c
 - **Flutter Developer** – *Softvence Agency*  
   Built and maintained mobile apps with **GetX state management**, integrated APIs, and implemented scalable architectures.  
 
-- **Marketing Executive** – *Marcella Distribution Ltd*  
+- **Former Marketing Executive** – *Marcella Distribution Ltd*  
+  Developed and executed digital campaigns, analyzing engagement metrics to optimize outreach and conversions.
+
+  - **Former Marketing Executive** – *Remark HB Ltd*  
   Developed and executed digital campaigns, analyzing engagement metrics to optimize outreach and conversions.  
 
 ---
