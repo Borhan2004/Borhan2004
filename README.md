@@ -32,7 +32,7 @@ With a strong focus on clean architecture and user-centric design, I transform c
 ### 💼 Professional Experience
 
 - **Flutter Developer** – *Softvence Agency*  (May2025-Present)
-  Built and maintaining mobile apps with **GetX state management**, integrated APIs, and implemented scalable architectures.  
+  Building and maintaining mobile apps with **GetX state management**, integrating APIs, and implementing scalable architectures.  
 
 - **Former Marketing Executive** – *Marcella Distribution Ltd* (November2024-April2025) 
   Developed and executed digital campaigns, analyzing engagement metrics to optimize outreach and conversions.
