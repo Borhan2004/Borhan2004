@@ -37,7 +37,7 @@ With a strong focus on clean architecture and user-centric design, I transform c
 - **Former Marketing Executive** – *Marcella Distribution Ltd* (November2024-April2025) 
   Developed and executed digital campaigns, analyzing engagement metrics to optimize outreach and conversions.
 
-- **Former Marketing Executive** – *Remark HB Ltd*  (January2024-October2024)
+- **Former Marketing Executive** – *Remark HB Ltd*  (January2024-November2024)
   Developed and executed digital campaigns, analyzing engagement metrics to optimize outreach and conversions.  
 
 ---
