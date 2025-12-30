@@ -10,13 +10,13 @@
 I am a **Flutter Developer** specializing in building **scalable, responsive, and performant mobile applications**.  
 With a strong focus on clean architecture and user-centric design, I transform complex UI concepts into seamless, functional apps.  
 
-- 🚀 Expertise in **Flutter & GetX** for robust mobile solutions  
-- 🌱 Exploring advanced **Flutter animations**, custom widgets, and **iOS design patterns**  
-- ⚡ Passionate about **performance optimization**, code maintainability, and intuitive UX  
+- 🚀 Expertise in **Flutter & GetX** for robust mobile solutions  .
+- 🌱 Exploring advanced **Flutter animations**, custom widgets, and **iOS design patterns**  .
+- ⚡ Passionate about **performance optimization**, code maintainability, and intuitive UX  .
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Technical Skills :
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
