@@ -42,7 +42,7 @@ With a strong focus on clean architecture and user-centric design, I transform c
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect With Me via
 
 <p align="left">
   <a href="mailto:borhankustia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
