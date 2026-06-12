@@ -1,17 +1,13 @@
 <!-- Profile README for Mir Borhan Uddin -->
 
 <div align="center">
-  <img src="public/banner.png" alt="Mir Borhan Uddin Banner" width="100%">
-
-  <br/><br/>
-
   <h1>👋 Hi, I'm Mir Borhan Uddin</h1>
   <p><strong>Flutter & Cross-Platform Engineer | Crafting Scalable, High-Performance Mobile & Desktop Applications</strong></p>
 
   <p align="center">
-    <a href="https://github.com/Borhan2004"><img src="https://img.shields.io/github/followers/Borhan2004?label=Follow&style=flat-square&color=7c3aed" alt="GitHub Followers"></a>
-    <a href="https://www.linkedin.com/in/mir-borhan-uddin-b78bb8350/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-    <a href="mailto:borhankustia@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=flat-square&logo=gmail" alt="Email"></a>
+    <a href="https://github.com/Borhan2004"><img src="https://img.shields.io/github/followers/Borhan2004?label=Followers&style=for-the-badge&color=7c3aed&logo=github" alt="GitHub Followers"></a>
+    <a href="https://www.linkedin.com/in/mir-borhan-uddin-b78bb8350/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:borhankustia@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 </div>
 
@@ -23,22 +19,20 @@ I am a **Flutter & Cross-Platform Developer** dedicated to building fluid, modul
 
 My focus is on writing maintainable, clean codebases using decoupled architectures, custom UI/UX animations, and robust API integrations.
 
-*   💼 **Current Focus:** Developing production-grade cross-platform apps at Softvence Agency, focusing on reactive system integrations, custom shader animation libraries, and adaptive desktop suites.
-*   🚀 **Core Expertise:** State management orchestration (GetX, Provider), responsive cross-platform layouts, and performance profiling.
-*   📐 **Architecture Philosophy:** Strict separation of concerns (Clean Architecture), modular layouts, and robust error handling.
+*   ⚙️ **Advanced Layouts:** Adaptive navigation shells, custom paint shaders, and iOS/macOS-native blurred materials.
+*   📐 **Architecture First:** Strict adherence to decoupled Clean Architecture patterns (separating domain, data, and presentation layers).
+*   ⚡ **High-Performance:** Dedicated profiling to minimize widget repaints, optimize resource utilization, and deliver seamless 120 FPS renders.
 
 ---
 
 ### 🛠️ Technical Toolkit
 
-| Category | Technologies |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) |
+| **Mobile & Desktop** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) |
 | **State Management** | ![GetX](https://img.shields.io/badge/GetX-FF4081?style=flat-square&logo=flutter&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| **Backend & APIs** | ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) |
-| **Databases** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **DevOps & Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Backend & Databases** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) |
+| **Workflow & Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 ---
 
@@ -53,42 +47,53 @@ My focus is on writing maintainable, clean codebases using decoupled architectur
 
 ---
 
-### 🚀 Featured Open Source Projects
+### 🚀 Featured Open Source Libraries
 
-#### 🎨 [Tahoea Liquid Glass](https://github.com/Borhan2004/tahoea_liquid_glass)
-*iOS 18 Liquid Glass Material System for Flutter*
-*   **Impact:** Replicates the stunning liquid glass aesthetics of iOS 18, featuring real-time frosted blur, dual wave animations, prismatic borders, and specular sweeps.
-*   **Key Tech:** Custom Paint, SweepGradient, BackDropFilter, Flutter Animation Controllers.
-*   **Links:** [![pub package](https://img.shields.io/pub/v/tahoea_liquid_glass.svg?style=flat-square)](https://pub.dev/packages/tahoea_liquid_glass)
+#### 🎨 [Tahoea Liquid Glass](https://github.com/Borhan2004/tahoea_liquid_glass) 
+> **iOS 18 Liquid Glass Shader System for Flutter**
+>
+> Replicates the iOS 18 frosted glass material system natively in Flutter. Features multi-layered ambient shadows, custom wave shaders, sweep gradients, and real-time GPU-accelerated backdrop blur.
+>
+> `Custom Paint` • `SweepGradient` • `BackdropFilter` • `Animation Controller`
+>
+> [![pub package](https://img.shields.io/pub/v/tahoea_liquid_glass.svg?style=flat-square&color=blue)](https://pub.dev/packages/tahoea_liquid_glass) [![GitHub Stars](https://img.shields.io/github/stars/Borhan2004/tahoea_liquid_glass?style=flat-square&color=gold)](https://github.com/Borhan2004/tahoea_liquid_glass/stargazers)
 
 #### 🏢 [Deskify](https://github.com/Borhan2004/deskify)
-*Adaptive Mobile-to-Desktop Master Suite for Flutter*
-*   **Impact:** Bridges the desktop and mobile UX gap with adaptive glassmorphic layouts, native context menus, global keyboard shortcuts, and responsive constraint systems.
-*   **Key Tech:** HoverDecorator, DeskAccelerator, Custom Keyboard Layouts, Adaptive Navigation Shells.
+> **Adaptive Mobile-to-Desktop Master Suite**
+>
+> Bridges the responsive UI gap on Flutter by providing adaptive window shells, right-click desktop menus, mouse hover scale animations, and a centralized keyboard shortcut accelerator API.
+>
+> `HoverDecorator` • `DeskAccelerator` • `Responsive Layouts` • `Platform Emulation`
+>
+> [![GitHub Stars](https://img.shields.io/github/stars/Borhan2004/deskify?style=flat-square&color=gold)](https://github.com/Borhan2004/deskify/stargazers)
 
 #### 🔌 [Easy Chat Socket](https://github.com/Borhan2004/easy_chat_socket)
-*Enterprise-Ready WebSocket Abstraction*
-*   **Impact:** A robust, strongly-typed connection library for real-time Flutter chat applications featuring auto-reconnection, heartbeat timers, and reactive event streams.
-*   **Key Tech:** WebSockets, StreamControllers, Exponential Backoff, Ping/Pong Heartbeats.
+> **Enterprise WebSocket Wrapper for Chat Apps**
+>
+> An enterprise-grade, strongly-typed WebSocket client for Flutter. Out-of-the-box support for auto-reconnection (exponential backoff), keep-alive heartbeat timers, and reactive stream subscriptions.
+>
+> `WebSockets` • `StreamControllers` • `Exponential Backoff` • `Heartbeat Timer`
+>
+> [![GitHub Stars](https://img.shields.io/github/stars/Borhan2004/easy_chat_socket?style=flat-square&color=gold)](https://github.com/Borhan2004/easy_chat_socket/stargazers)
 
 ---
 
 ### 💼 Professional Experience
 
-#### 📱 Flutter Developer | Softvence Agency
-*May 2025 — Present*
-*   **Engineered** production-ready cross-platform mobile applications utilizing **GetX** for state and dependency management.
-*   **Designed & Integrated** robust REST API communication layers, featuring strongly-typed JSON serialization and offline caching.
-*   **Optimized** application performance, reducing repaint cycles and layout recalculations to ensure consistent 60/120 FPS renders.
+**Softvence Agency** | *Flutter Developer*
+`May 2025 – Present`
+*   **Engineered** cross-platform mobile apps using **GetX** for state synchronization and dependency management.
+*   **Designed & Integrated** robust, type-safe REST API layers with automatic offline caching and serialization.
+*   **Tuned** GPU performance, optimizing render loops and reducing repaint cycles to sustain 60/120 FPS.
 
-#### 📈 Marketing Executive | Marcella Distribution Ltd
-*November 2024 — April 2025*
-*   **Directed** target audience outreach, digital campaigns, and data-driven engagement tracking.
-*   **Bridged** product requirements with user growth behaviors, gaining deep insights into user experience expectations.
+**Marcella Distribution Ltd** | *Marketing Executive*
+`Nov 2024 – Apr 2025`
+*   **Directed** target acquisition campaigns and analytics-driven user engagement trackers.
+*   **Bridged** developer insights with marketing funnels, mapping user behavior directly to product design.
 
-#### 📈 Marketing Executive | Remark HB Ltd
-*January 2024 — November 2024*
-*   **Structured** digital advertising frameworks and analyzed marketing funnel analytics.
+**Remark HB Ltd** | *Marketing Executive*
+`Jan 2024 – Nov 2024`
+*   **Structured** digital growth frameworks and managed key marketing campaign analytics.
 
 ---
 
@@ -117,21 +122,21 @@ My focus is on writing maintainable, clean codebases using decoupled architectur
 
 ---
 
-### 🤝 Connect With Me
-
-Let's discuss Flutter architecture, performance tuning, or interesting product builds!
-
-<p align="left">
-  <a href="mailto:borhankustia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-borhankustia@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/mir-borhan-uddin-b78bb8350/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Borhan2004">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
+  <h3>🤝 Connect with me</h3>
+  <p>Let's collaborate on Flutter packages, performance tuning, or responsive app designs.</p>
+  <p>
+    <a href="mailto:borhankustia@gmail.com">
+      <img src="https://img.shields.io/badge/Email-borhankustia@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://www.linkedin.com/in/mir-borhan-uddin-b78bb8350/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Borhan2004">
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
 ---
 
